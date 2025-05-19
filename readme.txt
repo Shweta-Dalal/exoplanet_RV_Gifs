@@ -20,3 +20,4 @@ You will be prompted to enter a star name (e.g. `HD189733` or `HD 189733`). The 
 ## Examples
 
 The `examples/` folder contains a sample animation: `orbit_rv.gif`.
+
