@@ -1,7 +1,6 @@
 # Exoplanet Radial Velocity GIFs
 
 A Python script to fetch exoplanet data from NASA’s Exoplanet Archive, model Keplerian orbits and radial velocity curves, and produce animated GIFs visualizing orbital motion alongside the star’s wobbles.
----
 
 ## Usage
 
